@@ -19,6 +19,7 @@ $ npm install ejs
   * Trim-mode ('newline slurping') with `-%>` ending tag
   * Custom delimiters (e.g., use '<? ?>' instead of '<% %>')
   * Includes
+  * Includes Post Process Callback
   * Client-side support
   * Static caching of intermediate JavaScript
   * Static caching of templates
